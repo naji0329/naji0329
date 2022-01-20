@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/-AngularJS-cc79db?style=for-the-badge&logo=angularjs&logoColor=cc79db&labelColor=282828">
   <img src="https://img.shields.io/badge/-Java-db79af?style=for-the-badge&logo=java&logoColor=db79af&labelColor=282828">
   <img src="https://img.shields.io/badge/-C-ff657a?style=for-the-badge&logo=c&logoColor=ff657a&labelColor=282828">
-  <img src="https://img.shields.io/badge/-SQL-65ff8d?style=for-the-badge&logo=sql&logoColor=65ff8d&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-65ffdb?style=for-the-badge&logo=mysql&logoColor=65ffdb&labelColor=282828">
   <img src="https://img.shields.io/badge/-PostgreSQL-8479db?style=for-the-badge&logo=postgresql&logoColor=8479db&labelColor=282828">
   <img src="https://img.shields.io/badge/-MongoDB-65b8ff?style=for-the-badge&logo=mongodb&logoColor=65b8ff&labelColor=282828">
