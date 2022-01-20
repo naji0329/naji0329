@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/-TypeScript-f6ff65?style=for-the-badge&logo=typescript&logoColor=f6ff65&labelColor=282828">
   <img src="https://img.shields.io/badge/-VueJS-79dba0?style=for-the-badge&logo=vue.js&logoColor=79dba0&labelColor=282828">
   <img src="https://img.shields.io/badge/-NodeJS-79dbb7?style=for-the-badge&logo=node.js&logoColor=79dbb7&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Nuxt-79dbb7?style=for-the-badge&logo=nuxt&logoColor=79dbb7&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Next-79dbb7?style=for-the-badge&logo=next&logoColor=79dbb7&labelColor=282828">
   <img src="https://img.shields.io/badge/-Web3JS-79b7db?style=for-the-badge&logo=web3.js&logoColor=79b7db&labelColor=282828">
   <img src="https://img.shields.io/badge/-jQuery-8479db?style=for-the-badge&logo=jquery&logoColor=8479db&labelColor=282828">
   <img src="https://img.shields.io/badge/-AngularJS-cc79db?style=for-the-badge&logo=angularjs&logoColor=cc79db&labelColor=282828">
@@ -26,7 +28,6 @@
   <img src="https://img.shields.io/badge/-Ethereum-7665ff?style=for-the-badge&logo=ethereum&logoColor=7665ff&labelColor=282828">
   <img src="https://img.shields.io/badge/-Bitcoin-79dbb7?style=for-the-badge&logo=bitcoin&logoColor=79dbb7&labelColor=282828">
   <img src="https://img.shields.io/badge/-Solidity-7fdb79?style=for-the-badge&logo=solidity&logoColor=7fdb79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Solana-7fdb79?style=for-the-badge&logo=solana&logoColor=7fdb79&labelColor=282828">
   <img src="https://img.shields.io/badge/-rust-79b7db?style=for-the-badge&logo=rust&logoColor=79b7db&labelColor=282828">
   <img src="https://img.shields.io/badge/-Go-92ff65?style=for-the-badge&logo=go&logoColor=92ff65&labelColor=282828">
 </div>
