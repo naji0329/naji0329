@@ -9,6 +9,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PHP-db79af?style=for-the-badge&logo=php&logoColor=db79af&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Laravel-ff657a?style=for-the-badge&logo=laravel&logoColor=ff657a&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Codeigniter-65ffdb?style=for-the-badge&logo=codeigniter&logoColor=65ffdb&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Django-8479db?style=for-the-badge&logo=Django&logoColor=8479db&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-React-7fdb79?style=for-the-badge&logo=react&logoColor=7fdb79&labelColor=282828">
   <img src="https://img.shields.io/badge/-TypeScript-f6ff65?style=for-the-badge&logo=typescript&logoColor=f6ff65&labelColor=282828">
