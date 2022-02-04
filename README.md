@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/-React-7fdb79?style=for-the-badge&logo=react&logoColor=7fdb79&labelColor=282828">
   <img src="https://img.shields.io/badge/-TypeScript-f6ff65?style=for-the-badge&logo=typescript&logoColor=f6ff65&labelColor=282828">
   <img src="https://img.shields.io/badge/-VueJS-79dba0?style=for-the-badge&logo=vue.js&logoColor=79dba0&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NodeJS-79dbb7?style=for-the-badge&logo=node.js&logoColor=79dbb7&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NextJS-79dba0?style=for-the-badge&logo=next.js&logoColor=79dba0&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NuxtJS-7fdb79?style=for-the-badge&logo=nuxt.js&logoColor=7fdb79&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NodeJS-8479db?style=for-the-badge&logo=node.js&logoColor=8479db&labelColor=282828">
   <img src="https://img.shields.io/badge/-Web3JS-79b7db?style=for-the-badge&logo=web3.js&logoColor=79b7db&labelColor=282828">
   <img src="https://img.shields.io/badge/-jQuery-8479db?style=for-the-badge&logo=jquery&logoColor=8479db&labelColor=282828">
   <img src="https://img.shields.io/badge/-AngularJS-cc79db?style=for-the-badge&logo=angularjs&logoColor=cc79db&labelColor=282828">
