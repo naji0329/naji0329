@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/-Solidity-7fdb79?style=for-the-badge&logo=solidity&logoColor=7fdb79&labelColor=282828">
   <img src="https://img.shields.io/badge/-rust-79b7db?style=for-the-badge&logo=rust&logoColor=79b7db&labelColor=282828">
   <img src="https://img.shields.io/badge/-Go-92ff65?style=for-the-badge&logo=go&logoColor=92ff65&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NFT-65ffdb?style=for-the-badge&logo=nft&logoColor=65ffdb&labelColor=282828">
 </div>
 </p>
 
