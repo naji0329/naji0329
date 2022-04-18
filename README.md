@@ -53,7 +53,7 @@
 <br/>
 
 <div>  
-  <div style="display: flex; justify-content: center">
+  <div style="display: flex; justify-content: center; width: 100%">
     <div>
       <h4>NFT</h4>
       <p>https://halaclub.co</p>
