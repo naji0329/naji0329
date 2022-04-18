@@ -53,7 +53,7 @@
 <br/>
 
 <div>  
-  <div style="display: flex; justify-content: center; width: 100%">
+  <div style="display: flex; justify-content: center; width: 100%; background: blank; color: white">
     <div>
       <h4>NFT</h4>
       <a href="https://halaclub.co" target="_blank"><img height="60" src="https://halaclub.co/img/logo.png" /></a>
