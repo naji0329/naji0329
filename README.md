@@ -53,12 +53,24 @@
 <br/>
 
 <div>  
-  <h3>NFT Projects</h3>
-  <p>https://halaclub.co</p>
-  <p>http://spacekoalas.art</p>
-  <p>https://monstarzmint.com/</p>
-  <p>https://royaltyx.io/</p>
-  <p>http://ayuminft.com/</p>
+  <div style="display: flex; justify-content: center">
+    <div>
+      <h4>NFT</h4>
+      <p>https://halaclub.co</p>
+      <p>http://spacekoalas.art</p>
+      <p>https://monstarzmint.com/</p>
+      <p>https://royaltyx.io/</p>
+      <p>http://ayuminft.com/</p>
+    </div>
+    <div>
+      <h4>Coin & Chain</h4>
+      <p>https://oxstocks.com</p>
+    </div>
+    <div>
+      <h4>Crypto</h4>
+      <p>https://dearmonsters.info/</p>
+    </div>
+  </div>
 </div>
 
 
