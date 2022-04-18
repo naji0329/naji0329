@@ -39,8 +39,6 @@
 
 
 ## My Statistics
-
-<br/>
 <p align="left">
   <a href="#">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NAJI2329&show_icons=true&theme=gruvbox&hide_border=true" />
