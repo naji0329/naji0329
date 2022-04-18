@@ -56,7 +56,7 @@
   <div style="display: flex; justify-content: center; width: 100%">
     <div>
       <h4>NFT</h4>
-      <p>https://halaclub.co</p>
+      <a href="https://halaclub.co" traget="_blank"><img src="http://halaclub.co/img/logo.png" />HALA CLUB</a>
       <p>http://spacekoalas.art</p>
       <p>https://monstarzmint.com/</p>
       <p>https://royaltyx.io/</p>
