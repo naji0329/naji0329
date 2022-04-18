@@ -50,8 +50,6 @@
 <br>
 
 ## My Projects
-<br/>
-
 <div>  
   <div style="display: flex; justify-content: center; width: 100%; background: blank; color: white">
     <div>
