@@ -49,5 +49,18 @@
 </p>
 <br>
 
+## My Projects
+<br/>
+
+<div>  
+  <h3>NFT Projects</h3>
+  <p>https://halaclub.co</p>
+  <p>http://spacekoalas.art</p>
+  <p>https://monstarzmint.com/</p>
+  <p>https://royaltyx.io/</p>
+  <p>http://ayuminft.com/</p>
+</div>
+
+
 </div>
 
