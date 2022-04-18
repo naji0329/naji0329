@@ -54,10 +54,10 @@
   <div style="display: flex; justify-content: center; width: 100%; background: blank; color: white">
     <div>
       <h4>NFT</h4>
-      <a href="https://halaclub.co" target="_blank"><img height="100" src="https://halaclub.co/img/logo.png" /></a>
+      <a href="https://halaclub.co" target="_blank"><img height="100" src="http://halaclub.co/img/Camel55.png" /></a>
       <a href="https://metatars.club/" target="_blank"><img height="100" src="https://metatars.club/images/logo.gif" /></a>
       <a href="http://spacekoalas.art/" target="_blank"><img height="100" src="http://spacekoalas.art/static/media/space-koala-logo-01.afe6a9d8.png" /></a>
-      <a href="https://monstarzmint.com/" target="_blank"><img height="100" src="https://www.monstarzmint.com/assets/images/logo.png" /></a>
+      <a href="https://monstarzmint.com/" target="_blank"><img height="100" src="https://www.monstarzmint.com/assets/images/kings.gif" /></a>
       <a href="https://royaltyx.io/" target="_blank"><img height="100" src="https://royaltyx.io/img/logo.png" /></a>
       <a href="http://ayuminft.com/" target="_blank"><img height="100" src="http://ayuminft.com/img/small-logo.png" /></a>
     </div>
