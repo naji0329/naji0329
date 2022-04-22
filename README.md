@@ -55,7 +55,7 @@
   <a href="https://monstarzmint.com/" target="_blank"><img height="100" src="https://www.monstarzmint.com/assets/images/kings.gif" /></a>
   <a href="https://royaltyx.io/" target="_blank"><img height="100" src="https://royaltyx.io/img/logo.png" /></a>
   <a href="http://ayuminft.com/" target="_blank"><img height="100" src="http://ayuminft.com/img/small-logo.png" /></a>
-  <a href="https://oxstocks.com/" target="_blank"><img height="100" src="https://oxstocks.com/" /></a>
+  <a href="https://oxstocks.com/" target="_blank"><img height="100" src="https://oxstocks.com/assets/img/crypto/oxcoin.png" /></a>
   <a href="https://dearmonsters.info/" target="_blank"><img height="100" src="https://dearmonsters.info/assets/images/dino/walk.png" /></a>
   <a href="https://bnb.cleverstaking.com/" target="_blank"><img height="100" src="https://bnb.cleverstaking.com/logo.png" /></a>
 </div>
