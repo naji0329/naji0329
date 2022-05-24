@@ -9,7 +9,7 @@
 - 📫 How to reach me </br>
     Email: be1512t6@gmail.com </br>
     Telegram: https://t.me/naji_2329 </br>
-    Skype: live:.cid.b273fe3370c1d411 </br>
+    Skype: https://join.skype.com/invite/BmeuJFCRWTtG </br>
     Discord: NAJI#4765 </br>
 
 <h3 align="left">Languages and Tools:</h3>
