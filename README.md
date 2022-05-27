@@ -2,9 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naji2329&label=Profile%20views&color=0e75b6&style=flat" alt="naji2329" /> </p>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=naji2329" alt="naji2329" /></a> </p>
-
-
 <p align="center">
   <a href="https://github.com/naji2329/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=naji2329&theme=monokai-metallian&hide_border=true"/>
