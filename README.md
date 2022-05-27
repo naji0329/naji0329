@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=naji2329" alt="naji2329" /></a> </p>
 
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 <p align="center">
   <a href="https://github.com/naji2329/github-readme-streak-stats">
