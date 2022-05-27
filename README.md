@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="justify">
+<p align="center">
   <a href="https://github.com/naji2329/github-readme-stats">
     <img
       height="150"
