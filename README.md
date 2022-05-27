@@ -6,22 +6,18 @@
 
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div style="display: flex; justify-content: space-between">
-    <div>
-        - 📫 How to reach me </br>
-            Email: be1512t6@gmail.com </br>
-            Telegram: <a href="https://t.me/naji_2329" target="_blank">@naji_2329</a> </br>
-            Skype: live:.cid.b273fe3370c1d411 </br>
-            Discord: NAJI#4765 </br>
-    </div>
-    <div>
-        <p align="center">
-          <a href="https://github.com/naji2329/github-readme-streak-stats">
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=naji2329&theme=monokai-metallian&hide_border=true"/>
-          </a>
-        </p>
-    </div>
-</div>
+
+<p align="center">
+  <a href="https://github.com/naji2329/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=naji2329&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+- 📫 How to reach me </br>
+    Email: be1512t6@gmail.com </br>
+    Telegram: <a href="https://t.me/naji_2329" target="_blank">@naji_2329</a> </br>
+    Skype: live:.cid.b273fe3370c1d411 </br>
+    Discord: NAJI#4765 </br>
     
     
 <h3 align="left">Languages and Tools:</h3>
