@@ -25,7 +25,7 @@
 
 
 - 📫 How to reach me </br>
-    Email: be1512t6@gmail.com </br>
+    Email: be1512t6@gmail.com or jn.naji2329@gmail.com </br>
     Telegram: <a href="https://t.me/naji_2329" target="_blank">@naji_2329</a> </br>
     Skype: live:.cid.b273fe3370c1d411 </br>
     Discord: NAJI#4765 </br>
