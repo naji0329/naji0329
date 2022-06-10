@@ -19,7 +19,7 @@
   <a href="https://github.com/brunonishimura/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=naji2329&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
