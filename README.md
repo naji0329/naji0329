@@ -16,7 +16,7 @@
     />
    </a>
 
-  <a href="https://github.com/brunonishimura/github-readme-stats">
+  <a href="https://github.com/naji2329/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=naji2329&layout=compact&theme=vision-friendly-dark" />
