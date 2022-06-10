@@ -12,7 +12,7 @@
   <a href="https://github.com/naji2329/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=naji2329&count_private=true&show_icons=true&custom_title=Bruno%20Y.%20Nishimura's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=naji2329&count_private=true&show_icons=true&custom_title=Naji's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
