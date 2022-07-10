@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Blockchain & Web Full Stack developer.</h1>
+<h1 align="center">NAJI is a Senior Full Stack & Blockchain Engineer.</h1>
 
 <p align="center">
   <a href="https://github.com/naji2329?tab=repositories&sort=stargazers">
