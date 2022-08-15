@@ -12,11 +12,9 @@
 <p>
 Very focused and polite worker that is capable of handling difficult tasks in a timely manner. Online and at your service for a job throughout most of the day and night. Will dedicate all efforts to each task assigned from my clients. I love to work with clients and establishing a healthy & strong relation which results in creating the best product.
 </p>
-
-
-- 📫 How to reach me </br>
-    Email: jn.naji2329@gmail.com </br>
-    Skype: NAJI2329 </br>
-    Discord: NAJI#4765 </br>
-    Telegram: NAJI#232 </br>
-
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; align-items: center; padding-left: 20px"> <img src="./google.png" width="40" height="40" /> <p style="padding: 5px 0 0 10px">jn.naji2329@gmail.com</p> </div>
+  <div style="display: flex; align-items: center; padding-left: 20px"> <img src="./tg.png" width="40" height="40" /> <p style="padding: 10px 0 0 10px">NAJI232</p> </div>
+  <div style="display: flex; align-items: center; padding-left: 20px"> <img src="./whatsapp.png" width="40" height="40" /> <p style="padding: 10px 0 0 5px">+1 315 215 1679</p> </div>
+  <div style="display: flex; align-items: center; padding-left: 20px"> <img src="./skype.png" width="40" height="40" /> <p style="padding: 10px 0 0 5px">NAJI2329</p> </div>
+</div>
