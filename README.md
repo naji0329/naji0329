@@ -1,5 +1,3 @@
-  <script src="https://cdn.tailwindcss.com"></script>
-
 <h1 align="center">NAJI is a Senior Full Stack & Blockchain Engineer.</h1>
 
 <p align="center">
@@ -11,7 +9,7 @@
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=naji2329&style=for-the-badge"/></a>
 </p>
 
-<p class="text-lg font-bold">
+<p>
 Very focused and polite worker that is capable of handling difficult tasks in a timely manner. Online and at your service for a job throughout most of the day and night. Will dedicate all efforts to each task assigned from my clients. I love to work with clients and establishing a healthy & strong relation which results in creating the best product.
 </p>
 <div style="display: flex; justify-content: center;">
