@@ -15,7 +15,7 @@ Very focused and polite worker that is capable of handling difficult tasks in a 
 
 <div align="center" style="display: flex; justify-content: center;">
   <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./google.png" width="40" height="40" /> <span style="padding: 5px 0 20px 0px">be1512t6@gmail.com</span> </span>
-  <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./tg.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">NAJI7465</span> </span>
+  <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./tg.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">NAJI4765</span> </span>
   <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./skype.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">NAJI2329</span> </span>
 </div>
 
