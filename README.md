@@ -1,4 +1,4 @@
-<h1 align="center">NAJI is a Senior Full Stack & Blockchain Engineer.</h1>
+<h1 align="center">Senior Full Stack & Blockchain Engineer.</h1>
 
 <p align="center">
   <a href="https://github.com/naji2329?tab=repositories&sort=stargazers">
@@ -23,14 +23,14 @@ Very focused and polite worker that is capable of handling difficult tasks in a 
   <a href="https://github.com/steerc2217/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=NAJI2329&count_private=true&show_icons=true&custom_title=NAJI2329's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=NAJI2329&count_private=true&show_icons=true&custom_title=NAJI0329's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
   <a href="https://github.com/steerc2217/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAJI2329&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAJI0329&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
