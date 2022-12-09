@@ -1,4 +1,4 @@
-<h1 align="center">Senior Full Stack & Blockchain Engineer.</h1>
+<h1 align="center">Senior Software Engineer.</h1>
 
 <p align="center">
   <a href="https://github.com/naji0329?tab=repositories&sort=stargazers">
