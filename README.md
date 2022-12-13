@@ -11,7 +11,6 @@
 Very focused and polite worker that is capable of handling difficult tasks in a timely manner. Online and at your service for a job throughout most of the day and night. Will dedicate all efforts to each task assigned from my clients. I love to work with clients and establishing a healthy & strong relation which results in creating the best product.
 </p>
 
-
 </br>
 <p align="center">
   <a href="https://github.com/steerc2217/github-readme-stats">
