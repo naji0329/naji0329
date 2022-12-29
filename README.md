@@ -27,8 +27,6 @@ Very focused and polite worker that is capable of handling difficult tasks in a 
   </a>  
 </p>
 
-
-    
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
