@@ -39,3 +39,6 @@ Very focused and polite worker that is capable of handling difficult tasks in a 
 
   
   <a href="https://naji0329.medium.com/" target="_blank">Medium</a>
+
+
+Client: CiberKong
