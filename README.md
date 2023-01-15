@@ -13,14 +13,14 @@ Very focused and polite worker that is capable of handling difficult tasks in a 
 
 </br>
 <p align="center">
-  <a href="https://github.com/steerc2217/github-readme-stats">
+  <a href="https://github.com/naji0329/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=NAJI0329&count_private=true&show_icons=true&custom_title=NAJI0329's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
-  <a href="https://github.com/steerc2217/github-readme-stats">
+  <a href="https://github.com/naji0329/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAJI0329&layout=compact&theme=vision-friendly-dark" />
