@@ -26,4 +26,5 @@ Very focused and polite worker that is capable of handling difficult tasks in a 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAJI0329&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
+
 <a href="https://naji0329.medium.com/" target="_blank">Medium</a>
