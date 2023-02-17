@@ -1,4 +1,4 @@
-<h1 align="center">Senior Software Engineer.</h1>
+<!-- <h1 align="center">Senior Software Engineer.</h1>
 
 <p align="center">
   <a href="https://github.com/naji0329?tab=repositories&sort=stargazers">
@@ -22,11 +22,11 @@
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAJI0329&layout=compact&theme=vision-friendly-dark" />
   </a>  
-</p>
+</p> -->
 
-### Contact Me
+<!-- ### Contact Me
 Email: be1512t6@gmail.com
 Telegram: naji4765
 
 ### Share
-<a href="https://naji0329.medium.com/" target="_blank">Medium</a>
+<a href="https://naji0329.medium.com/" target="_blank">Medium</a> -->
