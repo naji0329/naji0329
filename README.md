@@ -40,6 +40,7 @@
 ### My Certificates
 <ul>
   <li><a href="https://www.hackerrank.com/certificates/e38e305d776b" target="_blank">JavaScript(Basic)</a></li>  
+  <li><a href="https://www.hackerrank.com/certificates/0b5e843d5dd6" target="_blank">CSS</a></li>
 </ul>
 
 
