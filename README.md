@@ -39,8 +39,10 @@
 
 ### My Certificates
 <ul>
-  <li><a href="https://www.hackerrank.com/certificates/e38e305d776b" target="_blank">JavaScript(Basic)</a></li>  
   <li><a href="https://www.hackerrank.com/certificates/0b5e843d5dd6" target="_blank">CSS</a></li>
+  <li><a href="https://www.hackerrank.com/certificates/e38e305d776b" target="_blank">JavaScript</a></li>  
+  <li><a href="https://www.hackerrank.com/certificates/d2c80875285f" target="_blank">Node</a></li>  
+  <li><a href="https://www.hackerrank.com/certificates/ca5baa97b106" target="_blank">React</a></li>  
 </ul>
 
 
