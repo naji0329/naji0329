@@ -36,13 +36,21 @@
   <li><a href="https://naji0329.medium.com/how-to-install-an-ssl-certificate-from-a-commercial-certificate-authority-679d8c92bd61?source=user_profile---------5----------------------------" target="_blank">How To Install an SSL Certificate from a Commercial Certificate Authority</a></li>
   <li><a href="https://naji0329.medium.com/how-to-start-react-with-pm2-as-a-service-on-the-linux-and-macos-28fe41250fcf" target="_blank">How to start React with PM2 as a service on the Linux and MacOS</a></li>
 </ul>
-
-### My Certificates
-<ul>
-  <li><a href="https://www.hackerrank.com/certificates/0b5e843d5dd6" target="_blank">CSS</a></li>
-  <li><a href="https://www.hackerrank.com/certificates/e38e305d776b" target="_blank">JavaScript</a></li>  
-  <li><a href="https://www.hackerrank.com/certificates/d2c80875285f" target="_blank">Node</a></li>  
-  <li><a href="https://www.hackerrank.com/certificates/ca5baa97b106" target="_blank">React</a></li>  
-</ul>
-
-
+<p>
+  <p>
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/94976661/240875326-dbad6a50-8393-456b-8ef4-c5d07a9e9263.png" alt="certificates" height="280" align="right" />
+  </p>
+  
+  <p>
+  <br>
+    <h3> My Certificates</h3>
+      <ul>
+        <li><a href="https://www.hackerrank.com/certificates/0b5e843d5dd6" target="_blank">CSS Certificate</a></li>
+        <li><a href="https://www.hackerrank.com/certificates/e38e305d776b" target="_blank">JavaScript (Basic) Certificate</a></li>  
+        <li><a href="https://www.hackerrank.com/certificates/d2c80875285f" target="_blank">Node (Basic) Certificate</a></li>  
+        <li><a href="https://www.hackerrank.com/certificates/ca5baa97b106" target="_blank">React (Basic) Certificate</a></li>  
+        <li><a href="https://www.hackerrank.com/certificates/4dd46d679f16" target="_blank">Problem Solving (Basic) Certificate</a></li>  
+        <li><a href="https://www.hackerrank.com/certificates/fec70c6cb5f8" target="_blank">Rest API (Intermediate) Certificate</a></li>  
+      </ul>
+   </p>
+ </p>
