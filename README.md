@@ -37,4 +37,9 @@
   <li><a href="https://naji0329.medium.com/how-to-start-react-with-pm2-as-a-service-on-the-linux-and-macos-28fe41250fcf" target="_blank">How to start React with PM2 as a service on the Linux and MacOS</a></li>
 </ul>
 
+### My Certificates
+<ul>
+  <li><a href="https://www.hackerrank.com/certificates/e38e305d776b" target="_blank">JavaScript(Basic)</a></li>  
+</ul>
+
 
