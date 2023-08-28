@@ -1,7 +1,9 @@
 <h1 align="left">
   Senior Software Engineer.
-  
 </h1>
+
+### Nurturing Ambitious Journey to Innovation
+
 
  
 <!-- <a align="right">
@@ -11,10 +13,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naji0329?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </a> -->
  
-<p>
-  Very focused and polite worker that is capable of handling difficult tasks in a timely manner. Online and at your service for a job throughout most of the day and night. Will dedicate all efforts to each task assigned from my clients. I love to work with clients and establishing a healthy & strong relation which results in creating the best product.
-</p>
-  
+
+  NAJI is a dedicated web developer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, NAJI incorporates the latest industry trends and best practices. Through continuous learning and exploration, NAJI transforms ideas into reality, showcasing the power of technological advancements in the digital realm
+
 
 ### My Articles
 
