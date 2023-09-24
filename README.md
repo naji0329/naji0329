@@ -25,6 +25,7 @@
   <li><a href="https://naji0329.medium.com/comparing-react-native-state-management-libraries-f0baf67d7c29?source=user_profile---------3----------------------------" target="_blank">Comparing React Native state management libraries</a></li>
   <li><a href="https://naji0329.medium.com/how-to-install-an-ssl-certificate-from-a-commercial-certificate-authority-679d8c92bd61?source=user_profile---------5----------------------------" target="_blank">How To Install an SSL Certificate from a Commercial Certificate Authority</a></li>
   <li><a href="https://naji0329.medium.com/how-to-start-react-with-pm2-as-a-service-on-the-linux-and-macos-28fe41250fcf" target="_blank">How to start React with PM2 as a service on the Linux and MacOS</a></li>
+  <li><a href="https://naji0329.medium.com/how-to-implement-authentication-in-next-js-with-auth0-911f756c694f" target="_blank">How To Implement Authentication In Next.js With Auth0</a></li>
 </ul>
 <p>
   <p>
