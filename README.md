@@ -17,16 +17,6 @@
   NAJI is a dedicated web developer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, NAJI incorporates the latest industry trends and best practices. Through continuous learning and exploration, NAJI transforms ideas into reality, showcasing the power of technological advancements in the digital realm
 
 
-### My Articles
-
-<ul>
-  <li><a href="https://naji0329.medium.com/top-10-most-useful-libraries-for-react-native-1a73d724d843?source=user_profile---------0----------------------------" target="_blank">Top 10 most useful libraries for React Native</a></li>
-  <li><a href="https://naji0329.medium.com/16-libraries-you-should-know-as-a-react-developer-ac6d9bbd775e?source=user_profile---------1----------------------------" target="_blank">16 Libraries You Should Know as a React Developer</a></li>
-  <li><a href="https://naji0329.medium.com/comparing-react-native-state-management-libraries-f0baf67d7c29?source=user_profile---------3----------------------------" target="_blank">Comparing React Native state management libraries</a></li>
-  <li><a href="https://naji0329.medium.com/how-to-install-an-ssl-certificate-from-a-commercial-certificate-authority-679d8c92bd61?source=user_profile---------5----------------------------" target="_blank">How To Install an SSL Certificate from a Commercial Certificate Authority</a></li>
-  <li><a href="https://naji0329.medium.com/how-to-start-react-with-pm2-as-a-service-on-the-linux-and-macos-28fe41250fcf" target="_blank">How to start React with PM2 as a service on the Linux and MacOS</a></li>
-  <li><a href="https://naji0329.medium.com/how-to-implement-authentication-in-next-js-with-auth0-911f756c694f" target="_blank">How To Implement Authentication In Next.js With Auth0</a></li>
-</ul>
 <p>
   <p>
       <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/94976661/240875326-dbad6a50-8393-456b-8ef4-c5d07a9e9263.png" alt="certificates" height="280" align="right" />
